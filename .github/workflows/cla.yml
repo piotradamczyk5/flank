@@ -19,7 +19,7 @@ jobs:
         # Alpha Release
         uses: cla-assistant/github-action@v2.0.2-alpha
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
           # the below token should have repo scope and must be manually added by you in the repository's secret
           PERSONAL_ACCESS_TOKEN : ${{ steps.generate-token.outputs.token }}
         with:
