@@ -28,5 +28,5 @@ jobs:
           remote-repository-name: CLA
           remote-organization-name: Flank
           # branch should not be protected
-          branch: 'master'
+          branch: 'main'
           allowlist: bot*
