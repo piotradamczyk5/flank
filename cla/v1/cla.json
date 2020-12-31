@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "piotradamczyk5",
+      "id": 65554637,
+      "comment_id": 752956713,
+      "created_at": "2020-12-31T13:19:41Z",
+      "repoId": 323936207,
+      "pullRequestNo": 7
+    }
+  ]
 }
