@@ -27,5 +27,5 @@ jobs:
           remote-repository-name: CLA
           remote-organization-name: piotradamczyk5
           # branch should not be protected
-          branch: 'main'
+          branch: 'cla'
           allowlist: bot*
