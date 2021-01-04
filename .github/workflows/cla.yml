@@ -24,7 +24,7 @@ jobs:
         with:
           path-to-signatures: 'signatures.json'
           path-to-document: 'https://github.com/piotradamczyk5/flank/blob/master/cla.md' # e.g. a CLA or a DCO document
-          remote-repository-name: 'CLA'
+          #emote-repository-name: 'CLA'
           # branch should not be protected
           branch: 'cla'
           allowlist: bot*
