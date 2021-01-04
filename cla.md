@@ -1,4 +1,4 @@
-# Contributor License Agreement
+# DContributor License Agreement
 
 Thank you for your interest in contributing to open source software projects (“Projects”) made available by Matthew Edwards or its affiliates (“ME”). This Individual Contributor License Agreement (“Agreement”) sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to ME in respect of any of the Projects (collectively “Contributions”). If you have any questions respecting this Agreement, please contact matt@bootstraponline.com.
 
